@@ -1,0 +1,25 @@
+@media screen and (max-width:850px) {
+    
+
+.heading2 {
+    display: flex;
+    flex-direction: column;
+}
+.heading2 h1 {
+    font-size: 3.4rem;
+}
+.images {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-para p {
+    text-align: center;
+}
+#decorate_second {
+    padding: 10px 10px;
+}
+
+}

@@ -1,0 +1,5 @@
+/* For making nav flex-items vertically center */
+.flex_center {
+    display: flex;
+    align-items: center;
+}
